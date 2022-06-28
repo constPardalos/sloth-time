@@ -1,4 +1,4 @@
-# <img src="/images/favicon.png" width="22"/> Sloth Time
+# <img src="images/favicon.png" width="22"/> Sloth Time
 
 ![Logo](images/sloth-time-logo.svg)
 
@@ -8,7 +8,7 @@ This is an assignment from the [Odin Project](https://www.theodinproject.com/pat
 
 The purpose of this assignment is to build an HTML page and style it as close as possible to the provided [design](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png).
 
-<img src="/images/preview.png" />
+<img src="images/preview.png" />
 
 [Live Demo](https://thecolordude.github.io/sloth-time/)
 
@@ -16,7 +16,13 @@ The purpose of this assignment is to build an HTML page and style it as close as
 
 The following were used for the creation of this project:
 
-<img src="https://github.com/theColorDude/theColorDude/blob/main/assets/html5-original.svg" width="100" title="HTML5" /> <img src="https://github.com/theColorDude/theColorDude/blob/main/assets/css3-original.svg" width="100" title="CSS3" /> <img src="https://github.com/theColorDude/theColorDude/blob/main/assets/vscode-original.svg" width="100" title="VSCode" /> <img src="https://github.com/theColorDude/theColorDude/blob/main/assets/illustrator-plain.svg" width="100" title="Illustrator" />
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" title="Webstorm" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="60" title="Illustrator" />
+</p>
 
 ## Resources
 
