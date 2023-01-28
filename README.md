@@ -10,7 +10,7 @@ The purpose of this assignment is to build an HTML page and style it as close as
 
 <img src="images/preview.png" />
 
-[Live Demo](https://thecolordude.github.io/sloth-time/)
+[Live Demo](https://constPardalos.github.io/sloth-time/)
 
 ## Languages & Tools
 
